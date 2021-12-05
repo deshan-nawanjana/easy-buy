@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dbs>
+
+<item name="CPVP STEP OVER BEND" info="HOT WATER PIPES AND FITTINGS">
+<type name="C40022" size="1/2''" price="144"></type>
+<type name="C40023" size="3/4''" price="236"></type>
+</item>
+
+<item name="NYLON PLSTIC STRAP" info="HOT WATER PIPES AND FITTINGS">
+<type name="C40024" size="1/2''" price="19"></type>
+<type name="C40025" size="3/4''" price="19"></type>
+</item>
+
+<item name="ADHESIVE SOLUTION" info="HOT WATER PIPES AND FITTINGS">
+<type name="C410044" size="44ML" price="630"></type>
+<type name="C410050" size="50ML" price="660"></type>
+<type name="C4100118" size="118ML" price="950"></type>
+</item>
+
+<item name="CPVC CAP" info="HOT WATER PIPES AND FITTINGS">
+<type name="C420012" size="1/2''" price="34"></type>
+<type name="C420034" size="3/4''" price="56"></type>
+</item>
+
+<item name="CPVC BALL VALUE" info="HOT WATER PIPES AND FITTINGS">
+<type name="C00012" size="1/2''" price="1680"></type>
+<type name="C00034" size="3/4''" price="1920"></type>
+</item>
+
+
+
+<item name="BEND 45" info="DRAINAGE FITTINGS">
+<type name="SL201740450" size="40mm" price="113"></type>
+<type name="SL201750450" size="50mm" price="142"></type>
+<type name="SL201763450" size="63mm" price="188"></type>
+<type name="SL201711450" size="110mm" price="522"></type>
+</item>
+
+<item name="BEND 89" info="DRAINAGE FITTINGS">
+<type name="SL201740890" size="40mm" price="113"></type>
+<type name="SL201750890" size="50mm" price="147"></type>
+<type name="SL201763890" size="63mm" price="222"></type>
+<type name="SL201711890" size="110mm" price="455"></type>
+</item>
+
+<item name="EQUAL TEE" info="DRAINAGE FITTINGS">
+<type name="SL204700400" size="40mm" price="124"></type>
+<type name="SL204700500" size="50mm" price="193"></type>
+<type name="SL204700630" size="63mm" price="300"></type>
+<type name="SL204701100" size="110mm" price="705"></type>
+</item>
+
+<item name="SWEPT TEE" info="DRAINAGE FITTINGS">
+<type name="SL207700400" size="40mm" price="227"></type>
+<type name="SL207700500" size="50mm" price="358"></type>
+<type name="SL207701100" size="110mm" price="810"></type>
+</item>
+
+<item name="SINGLE Y" info="DRAINAGE FITTINGS">
+<type name="SL211740450" size="40mm" price="119"></type>
+<type name="SL211750450" size="50mm" price="227"></type>
+<type name="SL211763450" size="63mm" price="307"></type>
+<type name="SL211711450" size="110mm" price="850"></type>
+</item>
+
+<item name="MUTI-FLOOR TRAP BASE" info="DRAINAGE FITTINGS">
+<type name="SL222111234" size="110mm" price="670"></type>
+</item>
+
+<item name="DOOR BEND 45" info="DRAINAGE FITTINGS">
+<type name="SL201740454" size="40mm" price="159"></type>
+<type name="SL201750454" size="50mm" price="210"></type>
+<type name="SL201763454" size="63mm" price="273"></type>
+<type name="SL201711454" size="110mm" price="670"></type>
+</item>
+
+<item name="DOOR BEND 89" info="DRAINAGE FITTINGS">
+<type name="SL201740894" size="40mm" price="159"></type>
+<type name="SL201750894" size="50mm" price="210"></type>
+<type name="SL201763894" size="63mm" price="273"></type>
+<type name="SL201711894" size="110mm" price="670"></type>
+</item>
+
+<item name="DOOR TEE" info="DRAINAGE FITTINGS">
+<type name="SL204700404" size="40mm" price="181"></type>
+<type name="SL204700504" size="50mm" price="295"></type>
+<type name="SL204700634" size="63mm" price="455"></type>
+<type name="SL204701104" size="110mm" price="890"></type>
+</item>
+
+<item name="SWEPT DOOR TEE" info="DRAINAGE FITTINGS">
+<type name="SL207700404" size="40mm" price="250"></type>
+<type name="SL207700504" size="50mm" price="392"></type>
+<type name="SL207701104" size="110mm" price="1010"></type>
+</item>
+
+<item name="SINGLE DOOR Y" info="DRAINAGE FITTINGS">
+<type name="SL210740454" size="40mm" price="170"></type>
+<type name="SL210750454" size="50mm" price="300"></type>
+<type name="SL210763454" size="63mm" price="470"></type>
+<type name="SL210711454" size="110mm" price="1072"></type>
+</item>
+
+<item name="TOP TILE SET" info="DRAINAGE FITTINGS">
+<type name="SL222110056" size="150mm x 150mm" price="295"></type>
+</item>
+
+
+
+<item name="BUTT HINGES" info="DOOR FITTINGS">
+<type name="UOM2017022" size="2''x2''" price="99"></type>
+<type name="UOM2017032" size="3''x2''" price="138"></type>
+<type name="UOM2017033" size="3''x3''" price="168"></type>
+<type name="UOM2017042" size="4''x2''" price="198"></type>
+<type name="UOM2017043" size="4''x3''" price="258"></type>
+<type name="UOM2017044" size="4''x4''" price="378"></type>
+</item>
+
+<item name="DOOR RINGS" info="DOOR FITTINGS">
+<type name="UOM2017100" size="Std" price="78"></type>
+</item>
+
+<item name="CASEMENT STAY" info="DOOR FITTINGS">
+<type name="UOM2017209" size="9''" price="159"></type>
+<type name="UOM2017210" size="10''" price="210"></type>
+</item>
+
+<item name="WINDOW FASTNER" info="DOOR FITTINGS">
+<type name="UOM2017301" size="L" price="99"></type>
+<type name="UOM2017302" size="R" price="99"></type>
+</item>
+
+<item name="TOWER BOLT" info="DOOR FITTINGS">
+<type name="UOM2017425" size="2.5''" price="113"></type>
+<type name="UOM2017403" size="3''" price="150"></type>
+<type name="UOM2017404" size="4''" price="164"></type>
+<type name="UOM2017405" size="5''" price="177"></type>
+<type name="UOM2017406" size="6''" price="190"></type>
+</item>
+
+<item name="T HINGES" info="DOOR FITTINGS">
+<type name="UOM2017504" size="4''" price="122"></type>
+<type name="UOM2017505" size="5''" price="144"></type>
+<type name="UOM2017506" size="6''" price="179"></type>
+<type name="UOM2017508" size="8''" price="259"></type>
+<type name="UOM2017510" size="10''" price="288"></type>
+</item>
+
+
+
+<item name="DOMESTIC PUMP" info="WATER PUMPS">
+<type name="SL030" size="1''x1''" price="8100"></type>
+<type name="SL050" size="1''x1''" price="12600"></type>
+<type name="SL075" size="1''x1''" price="15950"></type>
+<type name="SL100" size="1''x1''" price="18050"></type>
+</item>
+
+<item name="AGRO PUMP" info="WATER PUMPS">
+<type name="SLA075" size="1.5''x1.5''" price="17000"></type>
+<type name="SLA100" size="1.5''x1.5''" price="17550"></type>
+<type name="SLA150" size="2''x2''" price="24850"></type>
+<type name="SLA200" size="2''x2''" price="25700"></type>
+</item>
+
+<item name="BOOSTER PUMP" info="WATER PUMPS">
+<type name="SLA001" size="1''x1''" price="19900"></type>
+</item>
+
+<item name="JET PUMP" info="WATER PUMPS">
+<type name="SLA002" size="1''x1''" price="20900"></type>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</dbs>

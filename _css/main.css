@@ -1,0 +1,14 @@
+﻿
+body {
+	background:url(/_src/home_bg.png) center no-repeat fixed #739eb0;
+	background-size:100% auto;
+	margin:0px;
+	font-family:Roboto-Thin;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor:default;
+}

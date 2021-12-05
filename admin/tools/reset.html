@@ -1,0 +1,29 @@
+﻿<link rel="stylesheet" type="text/css" href="/_font/font.css">
+<style>
+body {
+	font-family:Roboto-Light;
+}
+.t {
+	padding:15px 0px;
+	font-family:Roboto-Medium;
+	font-size:22px;
+}
+.btn {
+	height:42px;
+	border:none;
+	border-radius:4px;
+	font-family:Roboto-Light;
+	font-size:16px;
+	color:#FFF;
+	transition:all 0.1s;
+	background:red;
+	opacity:0.85;
+}
+.btn:hover {background:#cc0000;opacity:1;}
+.btn:active {background:#b30000;}
+</style>
+<div class="t">Are you Sure to reset entire database system?</div>
+<input type="button" class="btn" value="YES, RESET EVERYTHING" onclick="vst()">
+<script>
+function vst() {location = 'reset.php';}
+</script>
